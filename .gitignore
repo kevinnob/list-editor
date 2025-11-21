@@ -1,0 +1,20 @@
+# Build artifacts
+*.o
+*.exe
+*.out
+*.out.correct
+a.out
+
+# Mac + VS Code
+.DS_Store
+.vscode/
+*.dSYM/
+
+# Generated test output
+*.log
+*.diff
+
+# Temp files
+*.swp
+*.tmp
+

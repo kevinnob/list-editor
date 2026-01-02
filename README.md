@@ -3,8 +3,6 @@
 A standalone, terminal-based text editor and supporting data-structure library implemented in **C++17**.  
 This project demonstrates **low-level container design**, **iterator implementation**, and a **cursor-based editor abstraction** built on a doubly-linked list.
 
-> Originally developed as part of a rigorous systems programming course, but structured and documented as a standalone project.
-
 ---
 
 ## Overview
@@ -131,9 +129,3 @@ These skills translate directly to **C++ systems programming**, **performance-cr
 - The `TextBuffer` implementation is compatible with both the custom `List<T>` and `std::list<char>`, enabling independent testing of each component.
 - Designed to be extended (e.g., file I/O, undo/redo, richer UI).
 
----
-
-## License
-
-Student-authored code.  
-Reuse with attribution.
